@@ -1,0 +1,29 @@
+
+		
+.one{
+	color: #ff0000;
+}
+
+.two{
+	color: purple;
+}
+
+#three {
+	color: green;
+}
+
+#four {
+	border-radius: 50px;
+}
+
+#picture {
+	background-color: pink;
+	height: 500px;
+	width: 500px;
+	border-radius: 200px;
+	box-shadow: 15px 10px 10px blue;
+	border: 10px ridge green;
+}
+
+/*dotted double solid dashed groove ridge*/
+		
